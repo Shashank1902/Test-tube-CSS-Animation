@@ -1,6 +1,8 @@
 # Test-tube-CSS-Animation
-Filling water in test-tube loading CSS animation
+Filling test-tube with water CSS preloading animation :
 
-![Image 1](https://github.com/Shashank1902/Test-tube-CSS-Animation/blob/master/Test-tube%20image%201.png)
-![Image 2](http://url/to/Test-tube image 2.png)
+![Image 2](https://github.com/Shashank1902/Test-tube-CSS-Animation/blob/master/Test-tube%20image%202.png)
+
+![Image 2](https://github.com/Shashank1902/Test-tube-CSS-Animation/blob/master/Test-tube%20image%201.png)
+
 
